@@ -90,3 +90,5 @@ As fragmented biodiversity data stalls Southeast Asian Research, we want to coll
 [Plant Database - Trung tâm tài nguyên thực vật](https://plantdb.prc.org.vn/)
 
 [Flora and Fauna of Viet Nam-Động vật chí và Thực vật chí Việt Nam](https://fauna-flora.vap.ac.vn/)
+
+[CƠ SỞ DỮ LIỆU ĐA DẠNG SINH HỌC QUỐC GIA](https://dadangsinhhoc.mae.gov.vn/trang_chu).
