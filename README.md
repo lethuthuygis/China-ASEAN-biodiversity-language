@@ -83,6 +83,8 @@ As fragmented biodiversity data stalls Southeast Asian Research, we want to coll
 
 
 # Viet Nam
+[Trung tâm Điều tra, Quan trắc đa dạng sinh học](https://dadangsinhhoc.mae.gov.vn/trang_chu).
+
 [Trung tâm Dữ liệu Thực vật Việt Nam - Vietnam Plant Data Center - BVNGroup](https://www.botanyvn.com/?lg=en)
 
 [BHL-literature of Subject "flora of Vietnam"](https://www.biodiversitylibrary.org/subject/flora%20of%20Vietnam#/sections)
